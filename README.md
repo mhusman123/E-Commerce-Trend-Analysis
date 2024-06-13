@@ -4,7 +4,7 @@
 In the world of e-commerce, data is a powerful asset that can be leveraged to understand customer behavior, improve sales strategies, and enhance overall business performance. This guide explores how to effectively utilize a dummy dataset generated to simulate various aspects of an e-commerce platform. By analyzing this dataset, businesses can gain valuable insights into product trends, customer preferences, and market dynamics.
 
 **Dataset Overview**
-
+The dataset downloaded from kaggle
 The dataset includes the following features for each product:
 
     Price
